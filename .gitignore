@@ -1,0 +1,4 @@
+*.exe
+data/*.in
+data/*.out
+_test
